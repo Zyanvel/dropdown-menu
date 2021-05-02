@@ -27,6 +27,10 @@ const pokemons = [
     id: 6,
     value: 'Flygon',
   },
+  {
+    id: 7,
+    value: 'Arcanine',
+  },
 ];
 
 function App() {
